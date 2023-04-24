@@ -79,6 +79,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Meta SDK Plugin
+Plugins/MetaXR
+
 # Voice SDK Plugins
 Plugins/voicesdk-unreal
 Plugins/wit-unreal
